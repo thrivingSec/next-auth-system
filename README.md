@@ -2,6 +2,8 @@
 
 A production-ready, scalable authentication system built with Next.js, NextAuth.js, Redis, Prisma, and Supabase. This project demonstrates modern authentication patterns with email verification, password reset, and secure session management.
 
+![Landing Page](./screenshots/LandingPage.png)
+
 ## 🚀 Features
 
 - **User Registration** - Secure user registration with email validation
