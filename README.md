@@ -12,7 +12,7 @@ A production-ready, scalable authentication system built with Next.js, NextAuth.
 - **Password Reset** - Secure password reset flow with OTP verification
 - **Session Management** - JWT-based session management with 30-day expiration
 - **Type Safety** - Full TypeScript implementation with type-safe API routes
-- **Modern UI** - Beautiful, responsive UI built with Tailwind CSS and Radix UI
+- **Modern UI** - Beautiful, responsive UI built with Tailwind CSS and Shandcn
 - **Redis Caching** - Temporary data storage for OTPs and registration tokens using Upstash Redis
 - **Database Integration** - PostgreSQL database managed by Supabase with Prisma ORM
 - **Email Service** - Automated email sending with Nodemailer for OTP delivery
@@ -35,8 +35,7 @@ A production-ready, scalable authentication system built with Next.js, NextAuth.
 ### UI & Styling
 
 - **Tailwind CSS 4** - Utility-first CSS framework
-- **Radix UI** - Accessible component primitives
-- **Lucide React** - Icon library
+- **Shandcn UI library** - Accessible component primitives
 - **React Hot Toast** - Toast notifications
 
 ### Additional Tools
